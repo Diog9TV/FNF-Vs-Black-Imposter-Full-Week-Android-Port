@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"defeat",
+			"icon_black",
+			[
+				126,
+				93,
+				175
+			]
+		],
+		[
+			"danger",
+			"icon_black",
+			[
+				206,
+				113,
+				173
+			]
+		],
+		[
+			"unhinged",
+			"icon_black",
+			[
+				166,
+				53,
+				133
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "defeat",
+	"hiddenUntilUnlocked": false
+}
